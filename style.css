@@ -96,6 +96,9 @@ body{
     display: flex;
     gap: 8px;
 }
+.grey-out{
+    color: rgba(128, 128, 128, 0.868);
+}
 
 button{
     color: white;
